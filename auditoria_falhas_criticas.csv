@@ -1,0 +1,3 @@
+Timestamp,Nivel,Mensagem
+10:05:11,CRITICAL,Falha de conexão com o banco de dados principal.
+10:14:55,CRITICAL,Queda inesperada do serviço de autenticação.
